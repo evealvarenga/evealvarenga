@@ -12,11 +12,11 @@
 <i>Some things I like...</i>
 🎮 Music • Games • Anime • Code • Art
 
-<i>Technologies I use...</i>
+<i>Some technologies I use...</i>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <!--<a href="https://skillicons.dev">-->
     <img src="https://skillicons.dev/icons?i=bootstrap,css,eclipse,figma,git,github,html,java,js,mongodb,mysql,nodejs,notion,npm,py,vscode,windows&perline=8" />
-  </a>
+<!--  </a> -->
 </p>
    
 </pre>

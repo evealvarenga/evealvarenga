@@ -1,4 +1,4 @@
-# 🌸 Hi there :
+# 🌸 Hi there!
 <img hight="200" width="300" alt="Sakura" align="right" src="./assets/cover.jpg">
 
 
@@ -6,11 +6,11 @@
 <pre> 
     I'm a Backend developer from <i>Argentina</i> ～☆
 
-<i>Some things I'm learning...</i>
-✨ Data Structures & Algorithms, Frontend
+<i>🌸 Some things I'm learning...</i>
+Data Structures & Algorithms, Frontend
 
-<i>Some things I like...</i>
-🎮 Music • Games • Anime • Code • Art
+<i>🌸 Some things I like...</i>
+Music • Games • Anime • Code • Art
 
 <i>Some technologies I use...</i>
 <p align="center">

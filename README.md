@@ -15,7 +15,7 @@ Music • Games • Anime • Code • Art
 <i>Some technologies I use...</i>
 <p align="center">
   <!--<a href="https://skillicons.dev">-->
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,eclipse,figma,git,github,html,java,js,mongodb,mysql,nodejs,notion,npm,py,vscode,windows&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,eclipse,figma,git,github,html,java,js,php,mongodb,mysql,nodejs,notion,npm,py,vscode,windows&perline=8" />
 <!--  </a> -->
 </p>
    
